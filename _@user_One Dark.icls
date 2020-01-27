@@ -145,7 +145,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="743d3d" />
+        <option name="BACKGROUND" value="64393b" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -502,13 +502,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="838a97" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="838a97" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -525,7 +525,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="838a97" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -548,7 +548,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="838a97" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -611,7 +611,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="838a97" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -739,9 +739,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f44747" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="4f2931" />
+        <option name="ERROR_STRIPE_COLOR" value="4f2931" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
@@ -752,8 +752,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="1b406b" />
       </value>
     </option>
     <option name="FIRST SYMBOL IN LIST">
@@ -780,7 +779,7 @@
       <value>
         <option name="EFFECT_COLOR" value="ff8c00" />
         <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER">
@@ -956,7 +955,7 @@
       <value>
         <option name="EFFECT_COLOR" value="e5c07b" />
         <option name="ERROR_STRIPE_COLOR" value="e5c07b" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INI.SECTION">
@@ -1132,11 +1131,6 @@
       <value>
         <option name="FOREGROUND" value="e5c07b" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_TYPE_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
@@ -1382,16 +1376,6 @@
     <option name="OC.MACRO_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-      </value>
-    </option>
-    <option name="OC.MESSAGE_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="61afef" />
-      </value>
-    </option>
-    <option name="OC.METHOD_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
@@ -2001,15 +1985,15 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="EFFECT_COLOR" value="f44747" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="850015" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff8c00" />
         <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -2025,9 +2009,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f44747" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="4f2931" />
+        <option name="ERROR_STRIPE_COLOR" value="4f2931" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
