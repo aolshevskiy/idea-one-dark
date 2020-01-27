@@ -1687,8 +1687,8 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="BACKGROUND" value="4f2931" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="850015" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
