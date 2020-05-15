@@ -1,9 +1,9 @@
 <scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-12-06T01:51:28</property>
+    <property name="created">2020-05-15T16:46:33</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-01-27T16:38:43</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-15T16:47:58</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -611,7 +611,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="838a97" />
+        <option name="FOREGROUND" value="5c6370" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -863,6 +863,7 @@
     <option name="GQL_ID">
       <value />
     </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1631,6 +1632,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
+    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -1852,6 +1854,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
