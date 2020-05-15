@@ -1,9 +1,9 @@
 <scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-12-06T01:51:28</property>
+    <property name="created">2020-05-15T16:46:33</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-01-27T16:38:43</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-15T16:47:58</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -864,6 +864,7 @@
     <option name="GQL_ID">
       <value />
     </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1647,6 +1648,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
+    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -1705,6 +1707,7 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -1725,6 +1728,8 @@
     <option name="RUBY_LINE_CONTINUATION">
       <value />
     </option>
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1735,6 +1740,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="RUBY_PARAMETER_ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1745,6 +1751,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
+    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="RUBY_SYMBOL">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1903,6 +1910,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
