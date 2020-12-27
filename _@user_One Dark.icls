@@ -219,11 +219,6 @@
         <option name="FOREGROUND" value="59626f" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -579,13 +574,11 @@
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -662,7 +655,6 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
-        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -938,7 +930,6 @@
     <option name="HAML_TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="HAML_XHTML" baseAttributes="" />
@@ -1975,7 +1966,6 @@
     <option name="SLIM_STATIC_CONTENT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="SLIM_STRING_INTERPOLATED">
