@@ -1,9 +1,9 @@
 <scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-02-01T14:08:09</property>
+    <property name="created">2021-02-28T13:04:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-01T14:08:35</property>
+    <property name="modified">2021-02-28T13:04:32</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -989,6 +989,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353940" />
+        <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1014,6 +1015,12 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="BACKGROUND" value="414855" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -1804,7 +1811,11 @@
     <option name="RUBY_LINE_CONTINUATION">
       <value />
     </option>
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="RUBY_NTH_REF">
       <value>
