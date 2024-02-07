@@ -1,10 +1,9 @@
-<scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
+<scheme name="One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-01-17T13:28:26</property>
+    <property name="created">2024-02-07T17:14:50</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-17T13:28:59</property>
-    <property name="originalScheme">One Dark</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-07T17:14:56</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
