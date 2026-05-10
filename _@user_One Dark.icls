@@ -1,11 +1,12 @@
 <scheme name="One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2025.1.4.1.0.0</property>
+    <property name="ideVersion">2026.1.1.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98C379" />
     <option name="ANNOTATIONS_COLOR" value="A0A7B4" />
+    <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="21252B" />
     <option name="Bookmark.Mnemonic.iconBackground" value="3D424B" />
     <option name="Bookmark.Mnemonic.iconBorderColor" value="568AF2" />
     <option name="Bookmark.Mnemonic.iconForeground" value="A0A7B4" />
@@ -1252,6 +1253,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
